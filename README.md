@@ -9,7 +9,7 @@ All the designs are based in the dimensions specified in the following drawing:
   </a>
 </p>
 
-## Project files structure
+## File structure
 
 ```
 .
@@ -25,6 +25,8 @@ All the designs are based in the dimensions specified in the following drawing:
 ├── LICENSE
 └── README.md
 ```
+## Project files
+
 ### 1. Arduino UNO R3 shield - full
 
 Arduino UNO Rev. 3 full size shield template.
