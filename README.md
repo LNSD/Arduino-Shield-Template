@@ -1,5 +1,5 @@
-# Arduino-Shield-Template
-Arduino UNO R3 shield template (Solidworks, Altium, etc)
+# Arduino UNO R3 Shield Template
+#### Arduino UNO R3 shield template (Solidworks, Altium, etc)
 
 All the designs are based in the dimensions specified in the following drawing:
 
@@ -9,7 +9,7 @@ All the designs are based in the dimensions specified in the following drawing:
   </a>
 </p>
 
-## Project structure
+## Project files structure
 
 ```
 .
@@ -25,7 +25,7 @@ All the designs are based in the dimensions specified in the following drawing:
 ├── LICENSE
 └── README.md
 ```
-### Arduino UNO R3 shield - full
+### 1. Arduino UNO R3 shield - full
 
 Arduino UNO Rev. 3 full size shield template.
 
@@ -43,7 +43,7 @@ Arduino UNO Rev. 3 full size shield template.
 </p>
 
 
-### Arduino UNO R3 shield - small
+### 2. Arduino UNO R3 shield - small
 
 Arduino UNO Rev. 3 smaller size shield template.
 
