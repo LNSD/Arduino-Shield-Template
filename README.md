@@ -1,7 +1,7 @@
 # Arduino-Shield-Template
 Arduino UNO R3 shield template (Solidworks, Altium, etc)
---------------------------------------------------------
-All the designs are based in the following drawing:
+
+All the designs are based in the dimensions specified in the following drawing:
 
 <p align="center">
   <a href="https://blog.arduino.cc/2011/01/05/nice-drawings-of-the-arduino-uno-and-mega-2560/">
